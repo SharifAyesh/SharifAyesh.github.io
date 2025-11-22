@@ -5,8 +5,6 @@
 </p>
 
 
-# Sharif Ayesh
-
 ## CS 499 Computer Science Capstone ePortfolio
 
 Welcome to my capstone portfolio site. This page showcases the artifacts and enhancements I completed in CS 499 at Southern New Hampshire University. The work presented here demonstrates my growth in software engineering and design, algorithms and data structures, and databases, as well as my ability to think about security while building real applications.
