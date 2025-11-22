@@ -1,3 +1,9 @@
+<p style="text-align: center; margin-top: 1rem;">
+  <img src="/Sharif-Ayesh-headshot.png.raw.png"
+       alt="Photo of Sharif Ayesh"
+       style="width: 200px; border-radius: 50%; border: 4px solid #b24561;">
+</p>
+
 # Sharif Ayesh
 
 ## CS 499 Computer Science Capstone ePortfolio
