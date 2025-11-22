@@ -10,7 +10,7 @@ Welcome to my capstone portfolio site. This page showcases the artifacts and enh
 
 As part of CS 499 I completed a recorded code review of my selected artifacts. In this review I walked through the existing code, explained the purpose of each project, and identified areas where design, performance, and security could be improved. The feedback from the review guided the enhancements that I completed for this capstone.
 
-`Code Review Video: (https://www.youtube.com/watch?v=HXjmSoA20m8)`
+`Code Review Video: https://www.youtube.com/watch?v=HXjmSoA20m8`
 
 ---
 
