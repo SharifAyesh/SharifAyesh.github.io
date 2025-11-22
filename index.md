@@ -82,27 +82,22 @@ The three artifacts in this ePortfolio fit together to show the range of my comp
 ## CS 499 Course Outcomes
 
 ### Outcome 1  
-**Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.**
 
 In my projects I use clear code structure, meaningful names, and comments so that other developers can understand and extend the work. For the capstone I also created a code review video and written documentation that explain each artifact and its enhancements. These materials support collaboration by making it easier for teammates, instructors, and future employers to see what the software does and how it can be improved.
 
 ### Outcome 2  
-**Design, develop, and deliver professional quality communications that are coherent, technically sound, and adapted to specific audiences and contexts.**
 
 The reports, diagrams, and this ePortfolio are written to be clear and accessible to both technical and nontechnical readers. In the code review video I explain the design of each artifact, why certain decisions were made, and how enhancements address issues in the original implementations. This shows that I can adapt my communication style when I am speaking to classmates, instructors, or stakeholders who may not be developers.
 
 ### Outcome 3  
-**Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards.**
 
 The course advising system demonstrates my ability to design a solution around data structures and algorithms that fit the problem. In the capstone enhancement I considered efficiency, readability, and maintainability when selecting structures and refactoring the code. I used standard programming practices such as modular design, separation of concerns, and clear function interfaces.
 
 ### Outcome 4  
-**Demonstrate an ability to use well founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value.**
 
 Across these artifacts I used tools such as Android Studio, C++ compilers, Python, MongoDB, Git, and GitHub. I applied established techniques like model view separation in the Android app, structured data storage and search in the advising system, and query design in the database project. The enhancements focused on delivering more value to users through better usability, performance, and reliability.
 
 ### Outcome 5  
-**Develop a security mindset that anticipates adversarial exploits in software architecture and designs.**
 
 During the capstone enhancements I looked for ways that the software could be misused or broken by invalid inputs or unexpected behavior. I strengthened input validation in the Android application, reduced the chance of incorrect data in the advising and shelter systems, and considered how database access should be controlled. These changes show that I am starting to think about security as an important part of design rather than something that is added at the end.
 
