@@ -61,7 +61,7 @@ This artifact is an animal shelter dashboard that connects to a MongoDB database
 
 For the capstone enhancement I focused on improving database interactions and data validation. I reviewed queries for efficiency, added filters and sort options to make the dashboard more useful, and strengthened validation to reduce the chance of bad or incomplete data being stored. I also added clearer error messages so that users know when operations succeed or fail. These enhancements show that I can design and maintain a database backed application that is both functional and reliable.
 
-`Link to artifact code: (insert your CS 340 animal shelter repo or zip link here)`
+[**Download CS-340 MongoDB Project (ZIP)**](https://github.com/SharifAyesh/SharifAyesh.github.io/blob/main/CS-340.zip)
 
 ---
 
