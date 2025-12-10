@@ -34,7 +34,7 @@ This artifact is an Android inventory application that allows users to add items
 
 For the capstone enhancement I focused on improving the overall structure and quality of the code. I refactored repeated logic into helper methods, cleaned up activity classes, and improved input validation so that invalid or empty values are handled safely. I also reviewed the user interface to make it more consistent and easier to navigate. These changes make the app easier to maintain and extend in the future.
 
-`Link to artifact code: (insert your Android app GitHub repo or zip link here)`
+[**Download CS-360 Android App (ZIP)**](https://github.com/SharifAyesh/SharifAyesh.github.io/blob/main/CS-360.zip)
 
 ---
 
