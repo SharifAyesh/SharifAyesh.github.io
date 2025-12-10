@@ -47,7 +47,7 @@ This artifact is a 3D rendering project that creates a scene using basic shapes,
 
 For the capstone enhancement I reviewed and improved the design of the scene manager and object classes. I cleaned up how shapes and objects are stored and updated, organized transformation code so that scaling, rotation, and translation are easier to follow, and reduced repeated logic. I also focused on naming and structure so that the flow from input to camera movement to drawing is clear. These changes show my ability to apply algorithmic thinking and data structure organization in a real time graphics context.
 
-`Link to artifact code: (insert your CS 330 OpenGL project repo or zip link here)`
+[**View CS-330 OpenGL Project Code**](https://github.com/SharifAyesh/SharifAyesh.github.io/tree/main/CS-330)
 
 
 ---
